@@ -80,7 +80,7 @@ Before building the Power BI dashboard, an in-depth exploratory data analysis wa
 
 > *These insights shaped the design of the Power BI dashboard and guided which visualizations to include to tell a compelling data story.*
 
-![Exploratory Data Analysis](./images)
+![Exploratory Data Analysis](./images/Fare_distribution.png) (./images/averageFair.png)
 
 ## Feature Engineering:
 
